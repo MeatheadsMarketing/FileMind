@@ -1,1 +1,0 @@
-# summary_table_generator.py placeholder - content previously scaffolded

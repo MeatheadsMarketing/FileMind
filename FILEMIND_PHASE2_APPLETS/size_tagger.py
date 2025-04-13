@@ -1,1 +1,0 @@
-# size_tagger.py placeholder - content previously scaffolded

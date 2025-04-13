@@ -1,1 +1,0 @@
-# file_viewer_previewer.py placeholder - content previously scaffolded

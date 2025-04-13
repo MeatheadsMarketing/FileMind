@@ -1,1 +1,0 @@
-# extension_summary_chart.py placeholder - content previously scaffolded

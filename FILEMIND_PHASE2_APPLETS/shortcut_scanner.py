@@ -1,1 +1,0 @@
-# shortcut_scanner.py placeholder - content previously scaffolded

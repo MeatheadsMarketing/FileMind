@@ -1,1 +1,0 @@
-# auto_categorizer.py placeholder - content previously scaffolded
