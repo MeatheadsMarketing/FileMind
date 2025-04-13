@@ -1,0 +1,1 @@
+# scan_formatter.py placeholder - content previously scaffolded

@@ -1,0 +1,1 @@
+# file_registry_table.py placeholder - content previously scaffolded

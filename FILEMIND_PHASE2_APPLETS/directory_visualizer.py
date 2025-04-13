@@ -1,0 +1,1 @@
+# directory_visualizer.py placeholder - content previously scaffolded
